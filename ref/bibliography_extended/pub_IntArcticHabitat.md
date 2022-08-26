@@ -1,10 +1,12 @@
-# Научное исследование 1
+# Arctic Habitat
 
 ## Аннотация
 
 ## Ключевые слова
 
 ## URL
+
+[https://www.twinkl.com/teaching-wiki/arctic-habitat](https://www.twinkl.com/teaching-wiki/arctic-habitat)
 
 ## Реквизиты
 
@@ -23,6 +25,6 @@
 | Описание и роль в исследовании |          |
 | Приоритет                      |          |
 
-![](../../.gitbook/assets/image.png)
-
 ## Положения (ключевые для исследования)
+
+Обзорно даны характеристики тундры и взаимосвязи в её экосистеме
