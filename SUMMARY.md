@@ -15,3 +15,4 @@
 * [Расширенные сведения об источниках](ref/bibliography\_extended/README.md)
   * [Государственная программа 1](ref/bibliography\_extended/gov\_SomeProgramm.md)
   * [Научное исследование 1](ref/bibliography\_extended/sci\_SomeReserch.md)
+  * [АРКТИКА: АТЛАС КОЧЕВЫХ ТЕХНОЛОГИЙ](ref/bibliography\_extended/sci\_RuNomadsTech.md)
