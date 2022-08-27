@@ -33,4 +33,6 @@
 
 {% embed url="https://construction.elpub.ru/jour/article/view/21/21" %}
 
+[https://marhi.ru/teachers/grado/blagodeteleva\_om.pdf](https://marhi.ru/teachers/grado/blagodeteleva\_om.pdf)
+
 Обзор градостроительных аспектов
