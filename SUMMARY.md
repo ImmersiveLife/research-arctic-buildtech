@@ -17,6 +17,7 @@
   * [НП Тромсё, Норвегия](ref/bibliography\_extended/gov\_IntNPTromso.md)
   * [CLIMATE CHANGE](ref/bibliography\_extended/gov\_IntWWFclimateChange.md)
   * [Научное исследование 1](ref/bibliography\_extended/sci\_SomeReserch.md)
+  * [ARCTIC FOOD NETWORK](ref/bibliography\_extended/sci\_intAFNLateralOffice.md)
   * [This Robot Built a House in 3 Days](ref/bibliography\_extended/pub\_TheBIM1Buildingbots.md)
   * [Теоретические поиски и практика формирования систем расселения северных территорий России](ref/bibliography\_extended/sci\_ruBlagodeteleva.md)
   * [Arctic Habitat](ref/bibliography\_extended/pub\_IntArcticHabitat.md)
