@@ -18,6 +18,7 @@
 * [Библиографические данные](ref/bibliography\_simple.md)
 * [Расширенные сведения об источниках](ref/bibliography\_extended/README.md)
   * [Государственная программа 1](ref/bibliography\_extended/gov\_SomeProgramm.md)
+  * [Alaska Housing](ref/bibliography\_extended/gov\_AlaskaHousing.md)
   * [НП Тромсё, Норвегия](ref/bibliography\_extended/gov\_IntNPTromso.md)
   * [CLIMATE CHANGE](ref/bibliography\_extended/gov\_IntWWFclimateChange.md)
   * [Научное исследование 1](ref/bibliography\_extended/sci\_SomeReserch.md)
