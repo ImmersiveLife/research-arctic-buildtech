@@ -24,6 +24,7 @@
 ## Источники <a href="#ref" id="ref"></a>
 
 * [Библиографические данные](ref/bibliography\_simple.md)
+* [Библиографические данные — основные источники исследования](ref/bibliography\_simple\_core.md)
 * [Расширенные сведения об источниках](ref/bibliography\_extended/README.md)
   * [Государственная программа 1](ref/bibliography\_extended/gov\_SomeProgramm.md)
   * [Alaska Housing](ref/bibliography\_extended/gov\_AlaskaHousing.md)
@@ -36,6 +37,6 @@
   * [Arctic Habitat](ref/bibliography\_extended/pub\_IntArcticHabitat.md)
   * [АРКТИКА: АТЛАС КОЧЕВЫХ ТЕХНОЛОГИЙ](ref/bibliography\_extended/sci\_RuNomadsTech.md)
 
-## Отчёты <a href="#REPORTS" id="REPORTS"></a>
+## Отчёты <a href="#reports" id="reports"></a>
 
 * [Отчёт 1](REPORTS/r01.md)
