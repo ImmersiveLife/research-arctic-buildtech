@@ -29,6 +29,7 @@
   * [Государственная программа 1](ref/bibliography\_extended/gov\_SomeProgramm.md)
   * [Alaska Housing](ref/bibliography\_extended/gov\_AlaskaHousing.md)
   * [НП Тромсё, Норвегия](ref/bibliography\_extended/gov\_IntNPTromso.md)
+  * [НП Оулу, Финляндия](ref/bibliography\_extended/gov\_intnpoulu.md)
   * [CLIMATE CHANGE](ref/bibliography\_extended/gov\_IntWWFclimateChange.md)
   * [Научное исследование 1](ref/bibliography\_extended/sci\_SomeReserch.md)
   * [ARCTIC FOOD NETWORK](ref/bibliography\_extended/sci\_intAFNLateralOffice.md)

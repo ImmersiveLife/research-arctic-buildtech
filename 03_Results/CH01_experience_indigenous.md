@@ -48,7 +48,7 @@
 
 <figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption><p>Конструкция и основные узлы палатки (графика МАЭ РАН)</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>Сборка яранги (графика МАЭ РАН)</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>Сборка яранги (графика МАЭ РАН)</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Сборка палатки (графика МАЭ РАН)</p></figcaption></figure>
 
