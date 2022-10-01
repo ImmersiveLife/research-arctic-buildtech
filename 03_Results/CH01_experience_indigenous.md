@@ -54,7 +54,7 @@
 
 <figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption><p>Раскладка палатки и яранги по нартам для транспортировки (графика МАЭ РАН)</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption><p>Схема воздействия ветра на конструкцию яранги (графика МАЭ РАН)</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption><p>Схема воздействия ветра на конструкцию яранги (графика МАЭ РАН)</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption><p>Схема воздействия ветра на конструкцию палатки (графика МАЭ РАН)</p></figcaption></figure>
 

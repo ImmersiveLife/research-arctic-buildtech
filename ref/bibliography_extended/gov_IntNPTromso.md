@@ -8,6 +8,10 @@
 
 [https://ru.wikipedia.org/wiki/Тромсё](https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%BE%D0%BC%D1%81%D1%91)
 
+Фоточки
+
+[https://varlamov.ru/3176140.html?ysclid=l8pmi5ub2z834545048](https://varlamov.ru/3176140.html?ysclid=l8pmi5ub2z834545048)
+
 ## Ключевые слова
 
 ## URL
