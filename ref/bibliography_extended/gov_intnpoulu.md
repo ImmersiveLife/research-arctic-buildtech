@@ -105,7 +105,7 @@ Sivakka является крупнейшим арендодателем и оф
 
 ### Комплексная жилая застройка микрорайонного типа
 
-![](<../../.gitbook/assets/image (4).png>)
+![](<../../.gitbook/assets/image (4) (2).png>)
 
 {% embed url="https://www.psoas.fi/en/new-construction-of-valkkyla-2/" %}
 
