@@ -56,6 +56,10 @@
 
 {% embed url="https://tromso.kommune.no/bygg-vei-og-eiendom" %}
 
+Типы зданий
+
+[https://pub.framsikt.net/2022/tromso/bm-2022-handlingsprogram\_2022-2025/#/generic/summary/c002c39b-f742-4a2c-8218-57461a83481e-cn?scrollTo=t-18](https://pub.framsikt.net/2022/tromso/bm-2022-handlingsprogram\_2022-2025/#/generic/summary/c002c39b-f742-4a2c-8218-57461a83481e-cn?scrollTo=t-18)
+
 ### Питание
 
 {% embed url="https://tromso.kommune.no/naering" %}
